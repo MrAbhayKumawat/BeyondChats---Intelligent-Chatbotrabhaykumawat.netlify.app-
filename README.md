@@ -4,7 +4,7 @@ A modern, user-friendly platform for businesses to set up and integrate AI-power
 
 ## 🌐 Live Demo
 
-Visit the live application: [BeyondChats Setup Platform](https://beyondchats-setup.netlify.app)
+Visit the live application: [BeyondChats Setup Platform](https://bespoke-sunflower-5976ec.netlify.app/)
 
 ## ✨ Features
 
